@@ -1,1 +1,0 @@
-import{r as n}from"./index-D4H_InIO.js";import"./index-bUn38NNn.js";function i(e){return n.useMemo(()=>e.every(r=>r==null)?null:r=>{e.forEach(t=>{typeof t=="function"?t(r):t!=null&&(t.current=r)})},e)}export{i as u};
