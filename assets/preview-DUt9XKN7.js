@@ -1,1 +1,0 @@
-import{j as e}from"./jsx-runtime-Cf8x2fCZ.js";import"./index-yBjzXJbu.js";const s={parameters:{actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}}},decorators:[r=>e.jsx("div",{className:"theme-brand-1",children:e.jsx(r,{})})]};export{s as default};
